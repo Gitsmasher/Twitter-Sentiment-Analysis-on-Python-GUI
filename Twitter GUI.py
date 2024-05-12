@@ -73,10 +73,10 @@ def click():
     hash_name = hash_value.get()
     
     #============================Insert here twitter API keys===========================
-    consumerKey = ""
-    consumerSecret = ""
-    accessToken = ""
-    accessTokenSecret = ""
+   consumerKey = ND3svzPmSoaPJ9wNCJc2M6HWp
+   consumerSecret = ogJvhZMt9I4KqmUTUgCFieKSB2cLqFzFfayrVHc7FzQAPpnPpx
+   accessToken = 1595269016217522178-DiphlrL0IStCpbzbaiQ15XuJT2lxkp
+   accessTokenSecret = LMk70ux6xMreE03FkWnxsCW9ghAnK16Q3DbA05TEJn3jl
     #============================End twitter API keys section===========================
     
     authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret)
